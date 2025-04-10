@@ -1,0 +1,10 @@
+[project]
+name = "01perceptron"
+version = "0.1.0"
+description = "A rawdog implementation of the Perceptron algorithm for binary classification"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0.0",
+    "numpy>=1.24.0"
+]
